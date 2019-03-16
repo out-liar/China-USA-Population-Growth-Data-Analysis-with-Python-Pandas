@@ -43,7 +43,7 @@ us.population
 
 us.population / us.population.iloc[0] * 100
 
-# Now the first year is set to 1, and everything is is relative to it,
+# Now the first year is set to 1, and everything is relative to it,
 #  as a percentage.
 
 # Plotting the data:
